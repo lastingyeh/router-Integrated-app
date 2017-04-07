@@ -1,0 +1,21 @@
+//必要屬性
+showDialog：bool
+title:string
+content:element
+hide:fun
+
+//附加屬性
+styles:obj->{header,body,footer},
+buttons:array
+
+//範例
+let button01 = <Button onClick={()=>{...}}>Confirm</Button>;
+let button02 = <Button onClick={()=>{...}}>Confirm</Button>;
+
+<Dialog showDialog={this.state.show}
+        title="Title"
+        content={<h2>Content</h2>}
+        onHide={()=>{...}}
+        styles={{titleStyle:'dialogTitle',
+                bodyStyle:'dialogBody'}}
+        buttons={[button01,button02]}/>

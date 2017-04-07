@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.formStyle {
+    border: gray 1px solid;
+    margin: 40px;
+    padding: 5px;
+}
+
+.buttonStyle {
+    color: red;
+}
+
+.textStyle {
+    color: blue;
+}
+
+.dialogTitle {
+    color: red;
+}
+
+.dialogBody {
+    color: blue
+}
+
+.navbar-brand {
+    display: flex;
+    align-items: center;
+}
+
+.navbar-brand > img {
+    padding: 7px 14px;
+}
+
+.container {
+    max-width: 900px;
+}
+
+.modalFont {
+    color: royalblue;
+}
+
+.user-detail {
+    margin: 10px;
+}
+
+
