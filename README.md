@@ -1,6 +1,6 @@
-#### project for react applied in bootstrap || router || redux
+###project for react applied in bootstrap || router || redux
 
-    1. includes applied in package
+####includes applied in package
     
         (1) react
         
@@ -14,18 +14,22 @@
         
         (6) use 'debugger' to examine error 
         
-    2. install prjoect
+####install project
     
         (1) clone || download 
         
         (2) npm install 
         
-    3. demo
+<<<<<<< HEAD
+####demo
         
-        ![alt tag](https://github.com/lastingyeh/router-Integrated-app/blob/master/demo.gif)
+  ![alt tag](https://github.com/lastingyeh/router-Integrated-app/blob/master/demo.gif)
+=======
+    3. demo      
+        ![alt tag](https://github.com/lastingyeh/async-lab/blob/master/rwd-react.gif)
+>>>>>>> origin/master
         
-    
-    4. refs
+####refs
     
         https://github.com/buckyroberts/React-Redux-Boilerplate
     
