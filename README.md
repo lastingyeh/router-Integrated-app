@@ -20,9 +20,8 @@
         
         (2) npm install 
         
-    3. demo
-        
-        ![alt tag](https://github.com/lastingyeh/router-Integrated-app/blob/master/demo.gif)
+    3. demo      
+        ![alt tag](https://github.com/lastingyeh/async-lab/blob/master/rwd-react.gif)
         
     
     4. refs
