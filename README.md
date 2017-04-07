@@ -19,21 +19,11 @@
         (1) clone || download 
         
         (2) npm install 
+
+####demo      
         
-<<<<<<< HEAD
-<<<<<<< HEAD
-####demo
-        
-  ![alt tag](https://github.com/lastingyeh/router-Integrated-app/blob/master/demo.gif)
-=======
-    3. demo      
-        ![alt tag](https://github.com/lastingyeh/async-lab/blob/master/rwd-react.gif)
->>>>>>> origin/master
-=======
-    3. demo      
-        ![alt tag](https://github.com/lastingyeh/async-lab/blob/master/rwd-react.gif)
->>>>>>> origin/master
-        
+   ![alt tag](https://github.com/lastingyeh/async-lab/blob/master/rwd-react.gif)
+         
 ####refs
     
         https://github.com/buckyroberts/React-Redux-Boilerplate
