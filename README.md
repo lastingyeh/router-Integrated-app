@@ -21,7 +21,8 @@
         (2) npm install 
         
     3. demo
-    
+        
+        ![alt tag](https://github.com/lastingyeh/router-Integrated-app/blob/master/demo.gif)
         
     
     4. refs
