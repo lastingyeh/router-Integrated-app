@@ -21,9 +21,14 @@
         (2) npm install 
         
 <<<<<<< HEAD
+<<<<<<< HEAD
 ####demo
         
   ![alt tag](https://github.com/lastingyeh/router-Integrated-app/blob/master/demo.gif)
+=======
+    3. demo      
+        ![alt tag](https://github.com/lastingyeh/async-lab/blob/master/rwd-react.gif)
+>>>>>>> origin/master
 =======
     3. demo      
         ![alt tag](https://github.com/lastingyeh/async-lab/blob/master/rwd-react.gif)
